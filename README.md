@@ -12,7 +12,7 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 ## Currently Open Applications
 | Name | Location | Application Period | Notes  |
 |---|---|---|---|
-| [Affirm](https://jobs.lever.co/affirm/ceb9ceef-cf1a-406d-b635-ba22470df7d6)  | CA | Present | |
+| [Affirm](https://jobs.lever.co/affirm/ceb9ceef-cf1a-406d-b635-ba22470df7d6)  | CA | Present | APPLIED |
 | [Airbnb](https://www.airbnb.com/careers/departments/position/1213896)  | CA | Present | |
 | [Akuna Capital](https://akunacapital.com/careers)  | IL, MA | Present | Graduation date by Spring 2020; diverse listings that range from C# to C++, Python, Web, Quant dev, etc. |
 | [AllianceBernstein](https://alliancebernstein.gr8people.com/index.gp?method=cappportal.showJob&layoutid=2092&inp1541=&inp1375=9947&opportunityid=9947)  | NY| Present | Dec 2019/June 2020 Graduation Date|
