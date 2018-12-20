@@ -20,7 +20,7 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | [Amazon](https://www.amazon.jobs/en/jobs/701508/software-development-engineer-internship-summer-2019-united-states)  | WA,  TX, CA, MA, CO, MI, VA, NY, WI, MN, AZ, OR | Present | Juniors and above only |
 | [Amazon Future Engineers](https://www.amazon.jobs/en/business_categories/university-recruiting)  | WA | Present  | For college freshmen and sophomores. 10 hours of cs-related community service required before application. |
 | [American Express](https://jobs.americanexpress.com/jobs/18012247?lang=en-us&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)  | AZ, FL, NY | Present | Graduation date between December 2019 and June 2021 |
-| [Appian](https://boards.greenhouse.io/appian/jobs/1284024)  | VA | Present | | |
+| [Appian](https://boards.greenhouse.io/appian/jobs/1284024)  | VA | Present | | APPLIED |
 | [Arm](https://careers.peopleclick.com/careerscp/client_arm/external/jobDetails.do?functionName=getJobDetail&jobPostId=38844&localeCode=en-us) | TX | Present | |
 | [Asana](https://asana.com/jobs/university-recruiting)  | CA, NY | Present | | |
 | [Astranis](https://jobs.lever.co/astranis/?team=Internships)  | CA | Present | Fall 18, Spring 19, Summer 19. Software, but also Electrical, Aerospace, and Mechanical too! |
